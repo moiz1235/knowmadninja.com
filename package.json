@@ -1,8 +1,8 @@
 {
-  "name": "portfolio-app",
+  "name": "knowmadninja.com",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://dbarochiya.github.io/me",
+  "homepage": "https://moiz1235.github.io/knowmadninja.com",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.8.3",
