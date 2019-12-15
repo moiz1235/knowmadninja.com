@@ -1,13 +1,13 @@
 {
-  "main.css": "/knowmadninja.com/static/css/main.f4dd10f1.chunk.css",
-  "main.js": "/knowmadninja.com/static/js/main.c5ed57ee.chunk.js",
-  "main.js.map": "/knowmadninja.com/static/js/main.c5ed57ee.chunk.js.map",
-  "runtime~main.js": "/knowmadninja.com/static/js/runtime~main.27d326b8.js",
-  "runtime~main.js.map": "/knowmadninja.com/static/js/runtime~main.27d326b8.js.map",
-  "static/js/2.477d3cfd.chunk.js": "/knowmadninja.com/static/js/2.477d3cfd.chunk.js",
-  "static/js/2.477d3cfd.chunk.js.map": "/knowmadninja.com/static/js/2.477d3cfd.chunk.js.map",
-  "index.html": "/knowmadninja.com/index.html",
-  "precache-manifest.d2aab99d2db92bc696de5539b20429eb.js": "/knowmadninja.com/precache-manifest.d2aab99d2db92bc696de5539b20429eb.js",
-  "service-worker.js": "/knowmadninja.com/service-worker.js",
-  "static/css/main.f4dd10f1.chunk.css.map": "/knowmadninja.com/static/css/main.f4dd10f1.chunk.css.map"
+  "main.css": "/static/css/main.f4dd10f1.chunk.css",
+  "main.js": "/static/js/main.b8ff3f00.chunk.js",
+  "main.js.map": "/static/js/main.b8ff3f00.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.42ac5946.js",
+  "runtime~main.js.map": "/static/js/runtime~main.42ac5946.js.map",
+  "static/js/2.477d3cfd.chunk.js": "/static/js/2.477d3cfd.chunk.js",
+  "static/js/2.477d3cfd.chunk.js.map": "/static/js/2.477d3cfd.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.3a3428d922d80a422757e4f0b5b9a9a3.js": "/precache-manifest.3a3428d922d80a422757e4f0b5b9a9a3.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.f4dd10f1.chunk.css.map": "/static/css/main.f4dd10f1.chunk.css.map"
 }
