@@ -13,13 +13,8 @@ export default class About extends Component {
                     <div className="about-desc">
                     <span className="heading-meta">About Me</span>
                     <h2 className="colorlib-heading">Who Am I?</h2>
-                    {/* <p>I am a computer grad student from DAIICT-Gandhinagar with ICT as my major.I love exploring new technologies and often amazed by the progress we as a human species have mad so far in the recent years (apart from the headphone-jack part!!)</p> */}
-                    {/* <p>I have started reflecting my ideas and thougths through the medium of words recently so spelling and grammer mistaks are very often.You can write me back if you spot any and don't want to live anymore :P </p> */}
-                    <p>Design Engineer at Texas Instruments with {/*working on Standard Cell Library design 
-                        and analysis.*/} 3+ years of experience working on various design aspects.
-                        Skilled in Python, Perl, C++, Public Speaking, and English. 
-                        Strong engineering professional with a Bachelor of Engineering (BE) focused in 
-                        Electronics and Communications Engineering from RV College of Engineering</p>
+                    {<p>I am an Electronics and Communication Under-graduate from RV College of Engineering, Bangalore. Currently, I work at Texas Instruments as a Design Engineer with the Standard Cell Library Team working closely with Spice-Modelling and Process teams. </p>}
+                    {<p>I am an avid supporter of sustainable technologies and I frequently go trekking to admire the beauty of nature. I am writing this blog to capture my experiences in the projects I have been involved in and the adventures I have gone on. </p>}
                     </div>
                 </div>
                 </div>

@@ -3,8 +3,8 @@ import './App.css';
 import Sidebar from './components/sidebar'
 import Introduction from './components/introduction'
 import About from './components/about'
-import Projects from "./components/projects"
-import Trek from './components/timeline'
+import Projects from "./components/timeline"
+import Treks from './components/projects'
 
 class App extends Component {
   render() {
@@ -13,10 +13,10 @@ class App extends Component {
         <div id="container-wrap">
          	<Sidebar/>
 				<div id="colorlib-main">
-					<Introduction/>
-					<About/>
-          <Projects />
-					<Trek/>
+                    <Introduction/>
+                    <About/>
+                    <Projects/>
+                    <Treks/>
           	</div>
       	</div>
       </div>
