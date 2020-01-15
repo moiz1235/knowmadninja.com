@@ -68,7 +68,7 @@ export default class Projects extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Efficient Power Management - Smart Grids<span>2016</span></h2>
+                        <h2>Efficient Power Management - Smart Grids <span>2016</span></h2>
                         <p><strong>GENERAL ELECTRIC EDISON CHALLENGE </strong><br/>
                         • Developed a Smart and Efficient power management scheme for making electric grids smart.<br/>
                         • Prototyped an End-to-End system with smart metering at generation and consumption ends.<br/>
@@ -95,7 +95,7 @@ export default class Projects extends Component {
                         <i className="icon-pen2" />
                       </div>
                       <div className="timeline-label">
-                        <h2>Persistence of Vision Display<span>2014</span></h2>
+                        <h2>Persistence of Vision Display <span>2014</span></h2>
                         <p><strong>SELF STUDY PROJECT IN 5TH SEMESTER AT RVCE</strong><br/>
                         • Created a multi-color display using 16 * 3 color LEDs applying Analog and Digital learnings<br/>
                         • The logic control was done by MSP430G2553, using the Launchpad for programming and debugging.<br/></p>
