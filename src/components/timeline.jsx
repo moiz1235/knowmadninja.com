@@ -22,7 +22,16 @@ export default class Projects extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Design Engineer at Texas Instruments <span>2016-Present</span></h2>
-                        <p>Add details here</p>
+                        <p><strong> DIGITAL DESIGN ENGINEER</strong> <br/>
+                           • Worked on Design and Analysis of Digital Cell Libraries and delivered quality libraries in shorter cycle time. Automated the design
+                              and analysis process using Python Numpy and Pandas.< br/>
+                              • Worked on a Self Driven system for Digital Library timing models generation and eliminated the need for human decision making.<br/>
+                              • Developed an End-to-End system for Hold Padding of Sequential cells to account for mismatch variations in process using
+                              Linear-Regression. The project reduced pessimism in Design Margins giving best design entitlement.<br/>
+                              • Worked closely with spice modeling team in defining process nodes for better digital libraries. Analyzed data from bench-marking
+                              cell Libraries of multiple technology nodes.<br/>
+                              • Responsible for development of modular, reusable code. Ensured quality by adding unit-tests for reliable deployment<br/>
+                              • Worked on digital cell asserts for flagging potentially bad connections early in design phase</p>
                       </div>
                     </div>
                   </article>
@@ -33,7 +42,7 @@ export default class Projects extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Internship at Texas Instruments <span>2015</span></h2>
-                        <p>I worked as a Project trainee and developed anautomated solution for performance bench-marking of digital cell libraries based on Python. I worked with the spectre circuit simulator for analysis of delay, power, leakage and 𝐶𝑖𝑛 of standard cells. I also Underwent a training on practical use of Linux and its utilities</p>
+                        <p>I worked as a Project trainee and developed an automated solution for performance bench-marking of digital cell libraries based on Python. I worked with the spectre circuit simulator for analysis of delay, power, leakage and 𝐶𝑖𝑛 of standard cells. I also Underwent a training on practical use of Linux and its utilities</p>
                       </div>
                     </div>
                   </article>
@@ -44,13 +53,52 @@ export default class Projects extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Solar Car <span>2013-2016</span></h2>
-                        <p>Details of solar car</p>
+                        <p><strong>SOLAR ARRAY TEAM LEAD; MEMBER, ELECTRONICS & ELECTRICAL DIVISION</strong> <br/>
+                                 • Represented India at the World Solar Challenge, 2015 - 3000KM endurance race across the Australian outback.< br/>
+                                • Responsible for the Design and Integration of Solar Array, MPPT, BMS, Motor, Control Systems and Telemetry over CAN< br/>
+                                • Collaborated with Infosys, SunPower, SunEdison, Wipro, TCS, 3M, National Instruments and HHV Solar< br/>
+                                • Designed and fabricated light and efficient Solar Arrays using efficient Mono-crystalline cells from SunPower< br/>
+                                • Developed a Remote Health Monitoring system for the Solar car using the NI compact-RIO embedded controller</p>
                       </div>
                     </div>
                   </article>
-                  <article className="timeline-entry begin animate-box" data-animate-effect="fadeInBottom">
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                     <div className="timeline-entry-inner">
-                      <div className="timeline-icon color-none">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Efficient Power Management - Smart Grids<span>2016</span></h2>
+                        <p><strong>GENERAL ELECTRIC EDISON CHALLENGE </strong><br/>
+                        • Developed a Smart and Efficient power management scheme for making electric grids smart.<br/>
+                        • Prototyped an End-to-End system with smart metering at generation and consumption ends.<br/>
+                        • Implemented load and time-priority load-shedding scheme for critical endpoints such as Hospitals.</p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Cargo Sorting Robot <span>2015</span></h2>
+                        <p><strong>E-YANTRA ROBOTICS COMPETITION</strong><br/>
+                        • Firebird V, a robot from IIT Bombay, was programmed to sort colored boxed on a given map.<br/>
+                        • This was a scaled-down version of a cargo management at Airports.<br/></p>
+                      </div>
+                    </div>
+                  </article>
+                  <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                    <div className="timeline-entry-inner">
+                      <div className="timeline-icon color-3">
+                        <i className="icon-pen2" />
+                      </div>
+                      <div className="timeline-label">
+                        <h2>Persistence of Vision Display<span>2014</span></h2>
+                        <p><strong>SELF STUDY PROJECT IN 5TH SEMESTER AT RVCE</strong><br/>
+                        • Created a multi-color display using 16 * 3 color LEDs applying Analog and Digital learnings<br/>
+                        • The logic control was done by MSP430G2553, using the Launchpad for programming and debugging.<br/></p>
                       </div>
                     </div>
                   </article>
@@ -63,3 +111,12 @@ export default class Projects extends Component {
     )
   }
 }
+/*  
+2016
+
+ India
+ 2015
+
+ India
+ 2014
+ */
