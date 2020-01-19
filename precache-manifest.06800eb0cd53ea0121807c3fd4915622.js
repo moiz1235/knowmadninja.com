@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/knowmadninja.com/static/js/runtime~main.27d326b8.js"
   },
   {
-    "revision": "0c0f34dfc8352098d661",
-    "url": "/knowmadninja.com/static/js/main.0c0f34df.chunk.js"
+    "revision": "e9f2816c87d7d5fe43e0",
+    "url": "/knowmadninja.com/static/js/main.e9f2816c.chunk.js"
   },
   {
     "revision": "477d3cfdba83b1e0f343",
     "url": "/knowmadninja.com/static/js/2.477d3cfd.chunk.js"
   },
   {
-    "revision": "0c0f34dfc8352098d661",
+    "revision": "e9f2816c87d7d5fe43e0",
     "url": "/knowmadninja.com/static/css/main.f4dd10f1.chunk.css"
   },
   {
-    "revision": "9fb83df0bcf682655050f3f717af3b44",
+    "revision": "c54970085f1b7d4bae2938af38eae830",
     "url": "/knowmadninja.com/index.html"
   }
 ];
