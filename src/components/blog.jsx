@@ -15,7 +15,7 @@ export default class Blog extends Component {
 				<div className="row">
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a  className="blog-img"><img src="images/Scuba.jpg" className="img-responsive" alt="Oops! Something went wrong.." /></a>
+						<a  className="blog-img"><img src="images/Scuba.JPG" className="img-responsive" alt="Oops! Something went wrong.." /></a>
 						<div className="desc">
 							<span><small>February, 2017 </small> | <small>Pondicherry </small></span>
 							 <h3>Pondicherry Team Trip </h3>{/* <h3><a href="blog.html">Renovating National Gallery</a></h3> */}
@@ -35,7 +35,7 @@ export default class Blog extends Component {
 					</div>
 					<div className="col-md-4 col-sm-6 animate-box" data-animate-effect="fadeInLeft">
 					<div className="blog-entry">
-						<a  className="blog-img"><img src="images/Mangalore.jpg" className="img-responsive" alt="Oops! Something went wrong.." /></a>
+						<a  className="blog-img"><img src="images/Mangalore.JPG" className="img-responsive" alt="Oops! Something went wrong.." /></a>
 						<div className="desc">
 							<span><small>March, 2019 </small> | <small> Mangalore </small> {/*| <small> <i className="icon-bubble3" /> 4</small>*/}</span>
 							<h3>{/*<a href="blog.html">*/}Kayaking at Mulki</h3>
