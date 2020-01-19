@@ -11,8 +11,8 @@ export default class About extends Component {
                 <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
                 <div className="col-md-12">
                     <div className="about-desc">
-                    <span className="heading-meta">About Me</span>
-                    <h2 className="colorlib-heading">Who Am I?</h2>
+                    {/* <span className="heading-meta"></span> */}
+                    <h2 className="colorlib-heading">About Me</h2>
                     {<p>I am an Electronics and Communication Under-graduate from RV College of Engineering, Bangalore. Currently, I work at Texas Instruments as a Design Engineer with the Standard Cell Library Team working closely with Spice-Modelling and Process teams. </p>}
                     {<p>I am an avid supporter of sustainable technologies and I frequently go trekking to admire the beauty of nature. I am writing this blog to capture my experiences in the projects I have been involved in and the adventures I have gone on. </p>}
                     </div>
@@ -26,8 +26,8 @@ export default class About extends Component {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What am i good at?</span>
-                <h2 className="colorlib-heading">Here are some of my skills</h2>
+                {/* <span className="heading-meta">What am i good at?</span> */}
+                <h2 className="colorlib-heading">skills</h2>
             </div>
             </div>
             <div className="row row-pt-md">
