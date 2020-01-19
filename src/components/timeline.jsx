@@ -42,7 +42,9 @@ export default class Projects extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Internship at Texas Instruments <span>2015</span></h2>
-                        <p>I worked as a Project trainee and developed an automated solution for performance bench-marking of digital cell libraries based on Python. I worked with the spectre circuit simulator for analysis of delay, power, leakage and 𝐶𝑖𝑛 of standard cells. I also Underwent a training on practical use of Linux and its utilities</p>
+                        <p> • Developed an automated solution for performance bench-marking of digital cell libraries<br/>
+                            • Worked with the spectre circuit simulator for analysis of delay, power, leakage and Cin of standard cells<br/>
+                            • Underwent training on practical use of Linux and its utilities, Perl scripting</p>
                       </div>
                     </div>
                   </article>
