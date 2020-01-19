@@ -96,7 +96,7 @@ export default class Projects extends Component {
                       </div>
                       <div className="timeline-label">
                         <h2>Persistence of Vision Display <span>2014</span></h2>
-                        <p><strong>SELF STUDY PROJECT IN 5TH SEMESTER AT RVCE</strong><br/>
+                        <p><strong>SELF STUDY PROJECT AT RVCE</strong><br/>
                         • Created a multi-color display using 16 * 3 color LEDs applying Analog and Digital learnings<br/>
                         • The logic control was done by MSP430G2553, using the Launchpad for programming and debugging.<br/></p>
                       </div>
