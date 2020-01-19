@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/knowmadninja.com/precache-manifest.b841b755bb5249e3d478891ea3237542.js"
+  "/knowmadninja.com/precache-manifest.389652d1daf249213daf821aedbfd9a1.js"
 );
 
 workbox.clientsClaim();
